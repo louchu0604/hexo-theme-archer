@@ -1,6 +1,6 @@
 # ========== Profile ========== #
 # avatar
-avatar: /avatar/Misaka.jpg
+avatar: /avatar/kaola.JPG
 # author name
 author: kaola
 # signature
@@ -10,7 +10,7 @@ social:
   email: louchu0604@gmail.com
   github: //github.com/louchu0604
   # wechat and qq should be a path of qr-code image
-  wechat: #/assets/example_qr.png
+  wechat: /assets/kaolawx.jpg
   qq: 
   telegram: 
   weibo: 
@@ -30,9 +30,7 @@ social:
   rss: 
 # friends
 friends:
-  friendA: //www.baidu.com
-  friendB: //www.google.com
-  friendC: 
+  dajitui: //blog.dajitui.fun
 about:
   enable: true
   image: '/intro/about-bg.jpg'
